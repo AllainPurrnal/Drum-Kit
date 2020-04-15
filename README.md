@@ -1,6 +1,6 @@
 # JavaScript Drum Kit
 
-![drumkit](https://user-images.githubusercontent.com/25943488/79293427-8f1e4880-7e88-11ea-9a76-c26f3c948669.png)
+![drumkit](https://user-images.githubusercontent.com/25943488/79294328-b6761500-7e8a-11ea-98a0-c171449095eb.png)
 
 A simple Drum Kit made using plain HTML, CSS, and JavaScript.
 
